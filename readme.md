@@ -10,4 +10,4 @@
 # 4. Quais Recursos Livros
 #
 #
-#
+# Projeto baseado no video https://www.youtube.com/watch?v=FBLAV1SbJFk
